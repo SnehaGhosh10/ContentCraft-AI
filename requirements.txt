@@ -1,0 +1,15 @@
+# Core
+streamlit
+python-dotenv
+fastapi
+uvicorn
+requests
+
+# LangChain & Vectorstore
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+
+# Others
+pydantic
